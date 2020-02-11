@@ -1,0 +1,9 @@
+.MessageCard{
+    border: 2px solid #ccc;
+    width: 90%;
+    margin: 2% auto;
+}
+.author{
+    border-bottom: 1px solid #ccc;
+    background-color: #ccc;
+}
